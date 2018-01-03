@@ -1,0 +1,20 @@
+#year_panel {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+    margin: auto;
+}
+
+#header {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.inline {
+    display: inline-block;
+    text-align: center;
+    margin: 1cm;
+    margin: auto
+}
